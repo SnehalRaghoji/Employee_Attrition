@@ -1,0 +1,8 @@
+pip install virtualenv
+python -m virtualenv base
+cd base
+scripts/activate
+cd ..
+generate streamlit code
+make requirements.txt and mention required packages and run
+command -- pip install -r requirements.txt
